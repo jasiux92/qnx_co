@@ -2,4 +2,4 @@ qnx_co
 ======
 
 Piec CO
-ja tez tu bylem kurq
+ja tez tu bylem kurqlewf;lmsd
