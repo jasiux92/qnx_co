@@ -1,5 +1,1 @@
-qnx_co
-======
-
-Piec CO
-ja tez tu bylem kurqlewf;lmsd
+wq;jeojwqkeo;qwjkel;
