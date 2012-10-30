@@ -58,25 +58,3 @@ ESTYMATA: 4 ITERACJA:6
 ESTYMATA: 4 ITERACJA:6
 29.Jako użytkownik chciałbym mieć wgląd do aktualnego logu zdarzeń w systemie
 ESTYMATA: 8 ITERACJA:6
-
-ITERACJA 1:43
-
-ITERACJA 2:40
-
-ITERACJA 6:46
-
-
-
-Te nie są historyjkami bo o nich użytkownik nie ma pojęcia i każde powinny zająć podobną ilość czasu co każda inna iteracja:
-
-ITERACJA 3:
-Tworzenie serwera tcp/ip i łączenie go z klientem
-Implementacja zapytań i odpowiedzi generowanych przez serwer oraz symulator czujników oraz aplikacje kliencką
-
-ITERACJA 4:
-Tworzenie klas instalacji wraz z łądowaniem ich z xml
-
-ITERACJA 5:
-Tworzenie systemu decyzyjnego
-
-UWAZAMY ZE ZAJMA PODOBNA ILOSC CZASU CO POZOSTALE.
