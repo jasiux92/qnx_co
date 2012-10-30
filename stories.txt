@@ -1,0 +1,58 @@
+1. Jako u¿ytkownik chcia³bym logowaæ siê do systemu poprzez panel logowania i podania has³a i loginu. 2
+
+2. Jako u¿ytkownik chcia³bym by system po zalogowaniu rozpozna³ czy instalacja jest stworzona i w zale¿noœci od tego w³adowa³ istniej¹c¹ instalacjê lub otworzy³ tworzenie 
+instalacji. 2
+
+3. Jako u¿ytkownik chcia³bym tworzyæ instalacjê w osobnym oknie. 2
+
+4. Jako u¿ytkownik chcia³bym na samym pocz¹tku móc okreœliæ wysokoœæ instalacji oraz rodzaju okien jakie maj¹ siê w niej znaleœæ. 2
+
+5. Jako u¿ytkownik chcia³bym by okno tworzenia instalacji sk³ada³o siê z 3 czêœci.2
+
+6. Jako u¿ytkownik chcia³bym by lewa czêœæ okna tworzenia instalacji zawiera³a listê wszystkich pionów wyœwietlanych po 2 wraz z panelem przycisków. 4
+
+7. Jako u¿ytkownik chcia³bym by panel przycisków w lewej czêœci okna tworzenia instalacji umo¿liwia³ dodawanie nowego pionu oraz nawigowanie po istniej¹cych pionach. 2
+
+8. Jako u¿ytkownik chcia³bym by nowy pion sk³ada³ siê z listy zaworów do niego podpiêtych oraz przycisku usuwania tego¿ pionu. 2
+
+9. Jako u¿ytkownik chcia³bym by prawa czêœæ okna tworzenia instalacji tworzona by³a analogicznie do lewej z t¹ ró¿nic¹ by zawiera³a listê pokoi. 6
+
+10. Jako u¿ytkownik chcia³bym by nowy pokój sk³ada³ siê z listy zaworów i okien. Chcia³bym równie¿ móc nadaæ pokojowi nazwê oraz podaæ jego objêtoœæ. 4
+
+11. Jako u¿ytkownik chcia³bym by œrodkowa czêœæ okna tworzenia instalacji sk³ada³a siê z listy zaworów(po jednym na ka¿dy pion) oraz okien(po jednym z ka¿dego rodzaju). 2
+
+12. Jako u¿ytkownik chcia³bym by dodanie pionu spowodowa³o stworzenie odpowiadaj¹cego zaworu w œrodkowym panelu okna tworzenia instalacji. 4
+
+13. Jako u¿ytkownik chcia³bym by dodawanie okien oraz zaworów do pokoi odbywa³ siê poprzez przeci¹gniêcie odpowiedniego elementu z œrodkowego panelu na prawy. 8
+
+14. Jako u¿ytkownik chcia³bym by dodanie zaworu do pokoju spowodowa³o umieszczenie go na liœcie zaworów odpowiedniego pionu. 4
+
+15. Jako u¿ytkownik chcia³bym móc ustalaæ kolejnoœæ zaworów w poszczególnych pionach. 2
+
+16. Jako u¿ytkownik chcia³bym mieæ mo¿liwoœæ usuwania Ÿle naniesionych okien i zaworów. 4
+
+17. Jako u¿ytkownik chcia³bym po ukoñczeniu tworzenia instalacji móc j¹ zapisaæ lub te¿ odrzuciæ. 2
+
+18. Jako u¿ytkownik chcia³bym po za³adowaniu instalacji móc zobaczyæ g³ówne okno systemu. 2
+
+19. Jako u¿ytkownik chcia³bym chcia³bym by g³ówne okno systemu sk³ada³o siê z dwóch zak³adek. 2
+
+20. Jako u¿ytkownik chcia³bym by pierwsza zak³adka zawiera³a wizualizacjê systemu w 2D. 16
+
+21. Jako u¿ytkownik chcia³bym by druga zak³adka zawiera³a listê wszystkich pokoi wraz ze wszystkimi wymienionymi parametrami. 8
+
+22. Jako u¿ytkownik chcia³bym by w zak³adce z wizualizacj¹ systemu by³y dostêpne podstawowe dane o systemie. 12
+
+23. Jako u¿ytkownik chcia³bym mieæ wgl¹d do aktualnych temperatur  w pokojach. 6
+
+24. Jako u¿ytkownik chcia³bym mieæ wgl¹d do aktualnej temperaturze na piecu. 4
+
+25. Jako u¿ytkownik chcia³bym mieæ wgl¹d do aktualnego stanu zaworów. 4
+
+36. Jako u¿ytkownik chcia³bym mieæ wgl¹d do aktualnego stanu okien. 4
+
+27. Jako u¿ytkownik chcia³bym mieæ wgl¹d do stanu pomp, dmuchawy oraz podajnika. 2
+
+28. Jako u¿ytkownik chcia³bym mieæ wgl¹d oraz edytowaæ oczekiwane temperatury w poszczególnych pokojach. 4
+
+29. Jako u¿ytkownik chcia³bym mieæ wgl¹d do aktualnego logu zdarzeñ w systemie. 10
