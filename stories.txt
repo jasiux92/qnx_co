@@ -1,58 +1,82 @@
-1. Jako u¿ytkownik chcia³bym logowaæ siê do systemu poprzez panel logowania i podania has³a i loginu. 2
+1.Jako uÅ¼ytkownik chciaÅ‚bym logowaÄ‡ siÄ™ do systemu poprzez panel logowania i podania hasÅ‚a i loginu.
+ESTYMATA: 2 ITERACJA:6
+2.Jako uÅ¼ytkownik chciaÅ‚bym by system po zalogowaniu rozpoznaÅ‚ czy instalacja jest stworzona i w zaleÅ¼noÅ›ci od tego wÅ‚adowaÅ‚ istniejÄ…cÄ… instalacjÄ™ lub otworzyÅ‚ 
 
-2. Jako u¿ytkownik chcia³bym by system po zalogowaniu rozpozna³ czy instalacja jest stworzona i w zale¿noœci od tego w³adowa³ istniej¹c¹ instalacjê lub otworzy³ tworzenie 
-instalacji. 2
+tworzenie instalacji.
+ESTYMATA: 4 ITERACJA:6
+3.Jako uÅ¼ytkownik chciaÅ‚bym tworzyÄ‡ instalacjÄ™ w osobnym oknie.
+ESTYMATA: 2 ITERACJA:1
+4.Jako uÅ¼ytkownik chciaÅ‚bym na samym poczÄ…tku mÃ³c okreÅ›liÄ‡ wysokoÅ›Ä‡ instalacji oraz rodzaju okien jakie majÄ… siÄ™ w niej znaleÅ›Ä‡
+ESTYMATA: 2 ITERACJA:1
+5.Jako uÅ¼ytkownik chciaÅ‚bym by okno tworzenia instalacji skÅ‚adaÅ‚o siÄ™ z 3 czÄ™Å›ci.
+ESTYMATA: 2 ITERACJA:1
+6.Jako uÅ¼ytkownik chciaÅ‚bym by lewa czÄ™Å›Ä‡ okna tworzenia instalacji zawieraÅ‚a listÄ™ wszystkich pionÃ³w wyÅ›wietlanych po 2 wraz z panelem przyciskÃ³w.
+ESTYMATA: 2 ITERACJA:1
+7.Jako uÅ¼ytkownik chciaÅ‚bym by panel przyciskÃ³w w lewej czÄ™Å›ci okna tworzenia instalacji umoÅ¼liwiaÅ‚ dodawanie nowego pionu oraz nawigowanie po istniejÄ…cych pionach
+ESTYMATA: 2 ITERACJA:1
+8.Jako uÅ¼ytkownik chciaÅ‚bym by nowy pion skÅ‚adaÅ‚ siÄ™ z listy zaworÃ³w do niego podpiÄ™tych oraz przycisku usuwania tegoÅ¼ pionu
+ESTYMATA: 4 ITERACJA:1
+9.Jako uÅ¼ytkownik chciaÅ‚bym by prawa czÄ™Å›Ä‡ okna tworzenia instalacji tworzona byÅ‚a analogicznie do lewej z tÄ… rÃ³Å¼nicÄ… by zawieraÅ‚a listÄ™ pokoi.
+ESTYMATA: 4 ITERACJA:1
+10.Jako uÅ¼ytkownik chciaÅ‚bym by nowy pokÃ³j skÅ‚adaÅ‚ siÄ™ z listy zaworÃ³w i okien. ChciaÅ‚bym rÃ³wnieÅ¼ mÃ³c nadaÄ‡ pokojowi nazwÄ™ oraz podaÄ‡ jego objÄ™toÅ›Ä‡
+ESTYMATA: 4 ITERACJA:1
+11.Jako uÅ¼ytkownik chciaÅ‚bym by Å›rodkowa czÄ™Å›Ä‡ okna tworzenia instalacji skÅ‚adaÅ‚a siÄ™ z listy zaworÃ³w(po jednym na kaÅ¼dy pion) oraz okien(po jednym z kaÅ¼dego rodzaju)
+ESTYMATA: 4 ITERACJA:1
+12.Jako uÅ¼ytkownik chciaÅ‚bym by dodanie pionu spowodowaÅ‚o stworzenie odpowiadajÄ…cego zaworu w Å›rodkowym panelu okna tworzenia instalacji
+ESTYMATA: 2 ITERACJA:1
+13.Jako uÅ¼ytkownik chciaÅ‚bym by dodawanie okien oraz zaworÃ³w do pokoi odbywaÅ‚ siÄ™ poprzez przeciÄ…gniÄ™cie odpowiedniego elementu z Å›rodkowego panelu na prawy.
+ESTYMATA: 2 ITERACJA:1
+14.Jako uÅ¼ytkownik chciaÅ‚bym by dodanie zaworu do pokoju spowodowaÅ‚o umieszczenie go na liÅ›cie zaworÃ³w odpowiedniego pionu
+ESTYMATA: 6 ITERACJA:1
+15.Jako uÅ¼ytkownik chciaÅ‚bym mÃ³c ustalaÄ‡ kolejnoÅ›Ä‡ zaworÃ³w w poszczegÃ³lnych pionach
+ESTYMATA: 4 ITERACJA:1
+16.Jako uÅ¼ytkownik chciaÅ‚bym mieÄ‡ moÅ¼liwoÅ›Ä‡ usuwania Åºle naniesionych okien i zaworÃ³w
+ESTYMATA: 2 ITERACJA:1
+17.Jako uÅ¼ytkownik chciaÅ‚bym po ukoÅ„czeniu tworzenia instalacji mÃ³c jÄ… zapisaÄ‡ lub teÅ¼ odrzuciÄ‡
+ESTYMATA: 2 ITERACJA:1
+18.Jako uÅ¼ytkownik chciaÅ‚bym po zaÅ‚adowaniu instalacji mÃ³c zobaczyÄ‡ gÅ‚Ã³wne okno systemu
+ESTYMATA: 1 ITERACJA:1
+19.Jako uÅ¼ytkownik chciaÅ‚bym chciaÅ‚bym by gÅ‚Ã³wne okno systemu skÅ‚adaÅ‚o siÄ™ z dwÃ³ch zakÅ‚adek
+ESTYMATA: 6 ITERACJA:2
+20.Jako uÅ¼ytkownik chciaÅ‚bym by pierwsza zakÅ‚adka zawieraÅ‚a wizualizacjÄ™ systemu w 2D
+ESTYMATA: 2 ITERACJA:2
+21.Jako uÅ¼ytkownik chciaÅ‚bym by druga zakÅ‚adka zawieraÅ‚a listÄ™ wszystkich pokoi wraz ze wszystkimi wymienionymi parametrami
+ESTYMATA: 20 ITERACJA:2
+22.Jako uÅ¼ytkownik chciaÅ‚bym by w zakÅ‚adce z wizualizacjÄ… systemu byÅ‚y dostÄ™pne podstawowe dane o systemie
+ESTYMATA: 12 ITERACJA:2
+23.Jako uÅ¼ytkownik chciaÅ‚bym mieÄ‡ wglÄ…d do aktualnych temperatur  w pokojach
+ESTYMATA: 10 ITERACJA:6
+24.Jako uÅ¼ytkownik chciaÅ‚bym mieÄ‡ wglÄ…d do aktualnej temperaturze na piecu
+ESTYMATA: 4 ITERACJA:6
+25.Jako uÅ¼ytkownik chciaÅ‚bym mieÄ‡ wglÄ…d do aktualnego stanu zaworÃ³w
+ESTYMATA: 4 ITERACJA:6
+26.Jako uÅ¼ytkownik chciaÅ‚bym mieÄ‡ wglÄ…d do aktualnego stanu okien
+ESTYMATA: 4 ITERACJA:6
+27.Jako uÅ¼ytkownik chciaÅ‚bym mieÄ‡ wglÄ…d do stanu pomp, dmuchawy oraz podajnika
+ESTYMATA: 4 ITERACJA:6
+28.Jako uÅ¼ytkownik chciaÅ‚bym mieÄ‡ wglÄ…d oraz edytowaÄ‡ oczekiwane temperatury w poszczegÃ³lnych pokojach
+ESTYMATA: 4 ITERACJA:6
+29.Jako uÅ¼ytkownik chciaÅ‚bym mieÄ‡ wglÄ…d do aktualnego logu zdarzeÅ„ w systemie
+ESTYMATA: 8 ITERACJA:6
 
-3. Jako u¿ytkownik chcia³bym tworzyæ instalacjê w osobnym oknie. 2
+ITERACJA 1:43
 
-4. Jako u¿ytkownik chcia³bym na samym pocz¹tku móc okreœliæ wysokoœæ instalacji oraz rodzaju okien jakie maj¹ siê w niej znaleœæ. 2
+ITERACJA 2:40
 
-5. Jako u¿ytkownik chcia³bym by okno tworzenia instalacji sk³ada³o siê z 3 czêœci.2
+ITERACJA 6:46
 
-6. Jako u¿ytkownik chcia³bym by lewa czêœæ okna tworzenia instalacji zawiera³a listê wszystkich pionów wyœwietlanych po 2 wraz z panelem przycisków. 4
 
-7. Jako u¿ytkownik chcia³bym by panel przycisków w lewej czêœci okna tworzenia instalacji umo¿liwia³ dodawanie nowego pionu oraz nawigowanie po istniej¹cych pionach. 2
 
-8. Jako u¿ytkownik chcia³bym by nowy pion sk³ada³ siê z listy zaworów do niego podpiêtych oraz przycisku usuwania tego¿ pionu. 2
+Te nie sÄ… historyjkami bo o nich uÅ¼ytkownik nie ma pojÄ™cia i kaÅ¼de powinny zajÄ…Ä‡ podobnÄ… iloÅ›Ä‡ czasu co kaÅ¼da inna iteracja:
 
-9. Jako u¿ytkownik chcia³bym by prawa czêœæ okna tworzenia instalacji tworzona by³a analogicznie do lewej z t¹ ró¿nic¹ by zawiera³a listê pokoi. 6
+ITERACJA 3:
+Tworzenie serwera tcp/ip i Å‚Ä…czenie go z klientem
+Implementacja zapytaÅ„ i odpowiedzi generowanych przez serwer oraz symulator czujnikÃ³w oraz aplikacje klienckÄ…
 
-10. Jako u¿ytkownik chcia³bym by nowy pokój sk³ada³ siê z listy zaworów i okien. Chcia³bym równie¿ móc nadaæ pokojowi nazwê oraz podaæ jego objêtoœæ. 4
+ITERACJA 4:
+Tworzenie klas instalacji wraz z Å‚Ä…dowaniem ich z xml
 
-11. Jako u¿ytkownik chcia³bym by œrodkowa czêœæ okna tworzenia instalacji sk³ada³a siê z listy zaworów(po jednym na ka¿dy pion) oraz okien(po jednym z ka¿dego rodzaju). 2
+ITERACJA 5:
+Tworzenie systemu decyzyjnego
 
-12. Jako u¿ytkownik chcia³bym by dodanie pionu spowodowa³o stworzenie odpowiadaj¹cego zaworu w œrodkowym panelu okna tworzenia instalacji. 4
-
-13. Jako u¿ytkownik chcia³bym by dodawanie okien oraz zaworów do pokoi odbywa³ siê poprzez przeci¹gniêcie odpowiedniego elementu z œrodkowego panelu na prawy. 8
-
-14. Jako u¿ytkownik chcia³bym by dodanie zaworu do pokoju spowodowa³o umieszczenie go na liœcie zaworów odpowiedniego pionu. 4
-
-15. Jako u¿ytkownik chcia³bym móc ustalaæ kolejnoœæ zaworów w poszczególnych pionach. 2
-
-16. Jako u¿ytkownik chcia³bym mieæ mo¿liwoœæ usuwania Ÿle naniesionych okien i zaworów. 4
-
-17. Jako u¿ytkownik chcia³bym po ukoñczeniu tworzenia instalacji móc j¹ zapisaæ lub te¿ odrzuciæ. 2
-
-18. Jako u¿ytkownik chcia³bym po za³adowaniu instalacji móc zobaczyæ g³ówne okno systemu. 2
-
-19. Jako u¿ytkownik chcia³bym chcia³bym by g³ówne okno systemu sk³ada³o siê z dwóch zak³adek. 2
-
-20. Jako u¿ytkownik chcia³bym by pierwsza zak³adka zawiera³a wizualizacjê systemu w 2D. 16
-
-21. Jako u¿ytkownik chcia³bym by druga zak³adka zawiera³a listê wszystkich pokoi wraz ze wszystkimi wymienionymi parametrami. 8
-
-22. Jako u¿ytkownik chcia³bym by w zak³adce z wizualizacj¹ systemu by³y dostêpne podstawowe dane o systemie. 12
-
-23. Jako u¿ytkownik chcia³bym mieæ wgl¹d do aktualnych temperatur  w pokojach. 6
-
-24. Jako u¿ytkownik chcia³bym mieæ wgl¹d do aktualnej temperaturze na piecu. 4
-
-25. Jako u¿ytkownik chcia³bym mieæ wgl¹d do aktualnego stanu zaworów. 4
-
-36. Jako u¿ytkownik chcia³bym mieæ wgl¹d do aktualnego stanu okien. 4
-
-27. Jako u¿ytkownik chcia³bym mieæ wgl¹d do stanu pomp, dmuchawy oraz podajnika. 2
-
-28. Jako u¿ytkownik chcia³bym mieæ wgl¹d oraz edytowaæ oczekiwane temperatury w poszczególnych pokojach. 4
-
-29. Jako u¿ytkownik chcia³bym mieæ wgl¹d do aktualnego logu zdarzeñ w systemie. 10
+UWAZAMY ZE ZAJMA PODOBNA ILOSC CZASU CO POZOSTALE.
